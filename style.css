@@ -32,12 +32,17 @@ header {
   align-items: center;
   flex-wrap: wrap;
 }
+#logo-nav img {
+    width: 150px;
+    height: auto;
+    display: block;
+}
 
-#logo-nav h1 {
+/* #logo-nav h1 {
   font-size: 28px;
   color: #c59d5f;
   font-weight: bold;
-}
+} */
 
 #main-menu ul {
   list-style: none;
